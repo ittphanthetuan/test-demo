@@ -1,7 +1,6 @@
 {
   "name": "reactjs-demos",
   "version": "0.1.0",
-  "homepage": "https://ittphanthetuan.github.io/test-demo",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
